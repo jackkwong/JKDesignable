@@ -3,8 +3,11 @@ Series of handy IBDesignables for default ios UI components
 
 Features to include:
 
-JKUIView
-  layer.cornerRadius
+####JKUILabel
+- NSLocalizedString(..) for text
 
-JKUIButton
-  setExclusiveTouch
+####JKUIView
+- layer.cornerRadius
+
+####JKUIButton
+- setExclusiveTouch
